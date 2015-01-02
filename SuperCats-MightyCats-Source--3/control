@@ -1,0 +1,9 @@
+Package: com.Gh0stByte.supercats
+Name: SuperCats
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Gh0stByte <Gh0stByte01@gmail.com>
+Author: Gh0stByte <Gh0stByte01@gmail.com>
+Section: Tweaks
